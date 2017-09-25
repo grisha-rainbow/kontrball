@@ -17,7 +17,8 @@ export default class Communication {
     this.pingInterval = null;
     this.isOpponentConnected = false;
     this.availableServers = [
-      'wss://konter-eu-1.madebywild.com:6020',
+      // 'wss://konter-eu-1.madebywild.com:6020',
+      'localhost:6020',
     ];
     // chunk available characters into n parts where n is the number of servers
     this.availablePrefixes = chunk(

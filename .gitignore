@@ -7,8 +7,7 @@ node_modules
 npm-debug.log
 *.swp
 *.repeaks
-src/fonts
-public/fonts
+.idea
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*

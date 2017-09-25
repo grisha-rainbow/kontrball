@@ -51,8 +51,6 @@ import setupPaddles from './models/paddle';
 
 const DEBUG_MODE = false;
 
-/* global CannonDebugRenderer, Power1, Power2, Power3, Power4 */
-
 export default class Scene {
   constructor(emitter, communication) {
     this.emitter = emitter;
@@ -768,6 +766,7 @@ export default class Scene {
     this.scene.remove(this.table);
     this.table = Table(this.scene, this.config);
     this.resetTimeoutDuration = 1500;
+    console.log("HUD", this.hud);
     this.hud.scoreDisplay.opponentScore.visible = false;
     this.hud.scoreDisplay.lifeGroup.visible = true;
     this.scene.getObjectByName('net-collider').visible = false;

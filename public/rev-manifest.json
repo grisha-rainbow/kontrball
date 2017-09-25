@@ -3,10 +3,11 @@
   "fonts/AntiqueOlive.ttf": "fonts/AntiqueOlive-83507aa3a6.ttf",
   "fonts/AntiqueOlive.woff": "fonts/AntiqueOlive-45600680d8.woff",
   "fonts/AntiqueOlive.woff2": "fonts/AntiqueOlive-64a7de132c.woff2",
-  "fonts/Futura.eot": "fonts/Futura-7cad398adb.eot",
-  "fonts/Futura.ttf": "fonts/Futura-383cceed39.ttf",
-  "fonts/Futura.woff": "fonts/Futura-ef55cf5093.woff",
-  "fonts/Futura.woff2": "fonts/Futura-47ae921fcb.woff2",
+  "fonts/Futura Std Medium Condensed.ttf": "fonts/Futura Std Medium Condensed-4a67ef3b31.ttf",
+  "fonts/Futura Std Medium.ttf": "fonts/Futura Std Medium-8334155fb9.ttf",
+  "fonts/Futura TOT Medium Condensed.ttf": "fonts/Futura TOT Medium Condensed-7bf3a07f05.ttf",
+  "fonts/Futura URW Medium.ttf": "fonts/Futura URW Medium-82e744624a.ttf",
+  "fonts/Futura.ttf": "fonts/Futura-4174065a2c.ttf",
   "fonts/FuturaItalic.eot": "fonts/FuturaItalic-890d5f0f3c.eot",
   "fonts/FuturaItalic.ttf": "fonts/FuturaItalic-2e30d16aac.ttf",
   "fonts/FuturaItalic.woff": "fonts/FuturaItalic-d5f58c6f61.woff",
@@ -33,6 +34,6 @@
   "images/share/fb-share-green.jpg": "images/share/fb-share-green-d26ed04f8b.jpg",
   "images/share/fb-share-pink.jpg": "images/share/fb-share-pink-d56650f95c.jpg",
   "images/webvr-badge.svg": "images/webvr-badge-483c65ffd8.svg",
-  "javascripts/app.js": "javascripts/app-ecf9784ca706125896cd.js",
+  "javascripts/app.js": "javascripts/app-dbd07a054713bb0b646a.js",
   "stylesheets/app.css": "stylesheets/app-ef2ccc4c95.css"
 }

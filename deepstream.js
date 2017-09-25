@@ -22,7 +22,7 @@ app.use(fallback('index.html', {root}));
 
 // setup deepstream server
 const server = new DeepstreamServer({
-  host: 'localhost',
+  host: '192.168.88.59',
   port: 6020,
 });
 
